@@ -1,0 +1,10 @@
+all:
+  sf_mailchimp_plugin:
+    # find how to get your key here: http://kb.mailchimp.com/accounts/management/about-api-keys
+    apiKey:
+
+    # there are three options which can be set for the API
+    options:
+      debug: false
+      timeout: 600
+      CURLOPT_FOLLOWLOCATION: false

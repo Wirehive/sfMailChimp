@@ -4,7 +4,7 @@
 /**
  * A Symfony 1.4 plugin wrapper for the MailChimp API library.
  *
- * @author Robin Corps <robin@wirehive.net>
+ * @author Robin Corps <robin.corps@wirehive.com>
  * @version 0.1
  * @package sfMailChimpPlugin
  */
